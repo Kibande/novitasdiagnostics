@@ -1,0 +1,88 @@
+@import '~bootstrap/scss/bootstrap';
+
+html, 
+body,
+#root {
+    height: 100%;
+}
+
+body {
+  overflow-x: hidden;
+  margin-top: -15px;
+}
+
+.dark {
+  background-color: black;
+  color: #fff;
+  min-height: 100%;
+}
+
+#dark {
+  background-color: grey ;
+  color: #fff;
+}
+
+.navbar-toggler .navbar-light{
+  color: #fff !important;
+}
+
+.navbar {
+  z-index: 2;
+}
+
+.switch {
+  margin-top: 6px;
+  padding: 0;
+}
+
+.carousel-caption {
+  border-radius: 30px;
+  z-index: 1;
+}
+
+.carousel-caption h3{
+  font-size: 2.5rem;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.carousel-caption p{
+  font-size: 1rem;
+}
+
+.carousel-item > img {
+  height: 500px;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.carousel-item:after {
+  content:"";
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  background:rgba(0,0,0,0.4);
+}
+
+.info {
+  position: relative;
+  min-height: 300px;
+  background: url('./assets/image/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  color: #fff;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+}
+
