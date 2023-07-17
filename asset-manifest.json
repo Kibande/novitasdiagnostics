@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70e0df17.css",
+    "main.js": "/static/js/main.aa1c956b.js",
+    "static/media/vecteezy_medicine-doctor-team-working-with-digital-medical-interface_10817125_13-min.jpg": "/static/media/vecteezy_medicine-doctor-team-working-with-digital-medical-interface_10817125_13-min.82200e907578cd674014.jpg",
+    "static/media/background.jpg": "/static/media/background.2ac624ae7115b712b2f2.jpg",
+    "static/media/Medical Equipment Repair & Maintain Services.jpg": "/static/media/Medical Equipment Repair & Maintain Services.5cea5c6e9fcd203a9e1e.jpg",
+    "static/media/Best Biomedical Engineering Schools in South Africa.jpg": "/static/media/Best Biomedical Engineering Schools in South Africa.58adb86b4574fb1476bc.jpg",
+    "static/media/5 Emerging Biomedical Engineering Trends to Watch - HIT Consultant.jpg": "/static/media/5 Emerging Biomedical Engineering Trends to Watch - HIT Consultant.70c41dacd1f7188dc431.jpg",
+    "static/media/logo.svg": "/static/media/logo.d221ff38c27671efa906876724c39ba5.svg",
+    "index.html": "/index.html",
+    "main.70e0df17.css.map": "/static/css/main.70e0df17.css.map",
+    "main.aa1c956b.js.map": "/static/js/main.aa1c956b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70e0df17.css",
+    "static/js/main.aa1c956b.js"
+  ]
+}
